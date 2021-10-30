@@ -191,7 +191,7 @@ def weather():
 
 def personal():
     speak(
-        "I am Jarvis, version 1.0, I am an AI assistent, I am developed by Praveen on 29 may 2020 in INDIA"
+        "I am Jarvis, version 1.0, I am an AI assistent, I am developed by Shobhit Jain on march 2020 in INDIA"
     )
     speak("Now i hope you know me")
 
