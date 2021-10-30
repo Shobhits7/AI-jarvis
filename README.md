@@ -33,8 +33,6 @@ Say "Help" or "tell me your features" -> it will show all it's features
             it can change his/her voice from male to female and vice-versa
             And yes  more thing to come...
             
-![image](https://user-images.githubusercontent.com/11313549/83199495-ed646980-a15e-11ea-8834-d193af78e21d.png)
-
 # Made By Shobhit Jain
 
 
