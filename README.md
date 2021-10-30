@@ -1,7 +1,7 @@
 # Jarvis-AI-using-python3
 
 # Modules requires:
-            import pyttsx3  #pip install pyttsx3
+            import pyttsx3  {RUN #pip install pyttsx3}
             import datetime  #module
             import speech_recognition as sr
             import wikipedia
@@ -9,14 +9,14 @@
             import webbrowser as wb
             import os  #inbuilt
             import pyautogui
-            import psutil  #pip install psutil
-            import pyjokes  # pip install pyjokes
+            import psutil  {RUN #pip install psutil}
+            import pyjokes  {RUN #pip install pyjokes}
             import requests, json  #inbuilt
 
 
 This is the New Jarvis AI Project it will do some functionality followed by user query.
 
-Say "Help" or "tell me your features" , it will show all it's features
+Say "Help" or "tell me your features" -> it will show all it's features
 
 # This AI can do:
             it can help to do lot many things like..
@@ -33,9 +33,8 @@ Say "Help" or "tell me your features" , it will show all it's features
             it can change his/her voice from male to female and vice-versa
             And yes  more thing to come...
             
-![image](https://user-images.githubusercontent.com/11313549/83199718-64016700-a15f-11ea-8d7e-9b04280841f9.png)
-
 ![image](https://user-images.githubusercontent.com/11313549/83199495-ed646980-a15e-11ea-8834-d193af78e21d.png)
 
+# Made By Shobhit Jain
 
 
