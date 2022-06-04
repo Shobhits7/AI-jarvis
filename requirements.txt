@@ -1,0 +1,6 @@
+pyttsx3
+SpeechRecognition
+wikipedia
+webbrowser
+psutil
+pyjokes
